@@ -18,4 +18,4 @@
 
 * **Location:** Belmont, California (Planning permanent relocation to Japan in 2027)
 * **Education:** Keio University (B.A. Economics)
-* **Details:** See the full story on my [portfolio site](https://makoto-kanda.github.io/) (coming soon).
+* **Details:** See the full story on my [portfolio site](https://makoto-kanda.github.io/).
